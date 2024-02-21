@@ -10,4 +10,4 @@ Na seção sobre produtos podemos acompanhar o desempenho dos produtos e categor
 A integração de ferramentas como o Google Looker Studio e o Google Analytics possibilita uma análise detalhada e personalizada dos dados, fornecendo uma compreensão profunda do comportamento do público-alvo e embasando a tomada de decisões.
 Com a grande vantagem de os dados provenientes do Google Analytics já estarem tratados e segmentados o que pouca bastante tempo e trabalho
 
-[link para o dashboard]("https://lookerstudio.google.com/embed/reporting/89c1671d-b453-4fd4-ba47-7b6a43cd3979/page/gdqVD")
+[link para o dashboard](https://lookerstudio.google.com/embed/reporting/89c1671d-b453-4fd4-ba47-7b6a43cd3979/page/gdqVD)
