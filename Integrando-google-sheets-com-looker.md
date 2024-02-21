@@ -6,4 +6,4 @@ A facilidade de localização da planilha é um grande diferencial. Com apenas a
 Mas o benefício mais surpreendente dessa integração é a atualização automática dos dados e gráficos no dashboard. Isso significa que, ao fazer alterações na planilha, como editar a coluna “tipo de atividade”, os gráficos correspondentes são atualizados em tempo real. Basta clicar no canto superior direito onde se encontra o símbolo com 3 pontos alinhados verticalmente e em seguida clicar em “Atualizar dados”.
 Este dashboard está em constante evolução e atualização.
 
-!(link)[https://lookerstudio.google.com/s/h8tXKUYqShg]
+![link](https://lookerstudio.google.com/s/h8tXKUYqShg)

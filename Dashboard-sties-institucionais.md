@@ -11,4 +11,4 @@ Na seção sobre os dispositivos, como desktops, smartphones e tablets, permitin
 A integração de ferramentas como o Google Looker Studio e o Google Analytics possibilita uma análise detalhada e personalizada dos dados, fornecendo uma compreensão profunda do comportamento do público-alvo e embasando a tomada de decisões.
 Com a grande vantagem de os dados provenientes do Google Analytics já estarem tratados e segmentados o que pouca bastante tempo e trabalho
 
-<iframe width="600" height="338" src="https://lookerstudio.google.com/embed/reporting/4f95e8c8-faa3-49ff-8749-cb5e39734be9/page/p_yd5t0fdt7c" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+[Link para o dashboard](<iframe width="600" height="338" src="https://lookerstudio.google.com/embed/reporting/4f95e8c8-faa3-49ff-8749-cb5e39734be9/page/p_yd5t0fdt7c" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>)
